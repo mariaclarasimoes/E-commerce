@@ -1,0 +1,254 @@
+[
+    {
+        "id": 1,
+        "title": "Men's Printed T-Shirt",
+        "category": "T-Shirts",
+        "description": "Men's t-shirt with modern print. Comfortable and stylish for any occasion.",
+        "image": "https://lojausereserva.vtexassets.com/arquivos/ids/7449107/0025997040_04.jpg?v=638116526059670000",
+        "price": 39.99,
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "title": "Women's Skinny Jeans",
+        "category": "Pants",
+        "description": "Women's skinny jeans. Ideal for a casual and modern look.",
+        "image": "https://m.media-amazon.com/images/I/51CO2DLoG9L._AC_SX679_.jpg",
+        "price": 89.99,
+        "rating": 4.7
+    },
+    {
+        "id": 3,
+        "title": "Men's Leather Jacket",
+        "category": "Jackets",
+        "description": "Men's leather jacket with elegant design. Perfect for a striking style.",
+        "image": "https://condadostore.com.br/cdn/shop/products/Jaqueta-De-Couro-Masculina-Jacket-Black-Loja-Condado-52_2048x.jpg?v=1664317084",
+        "price": 149.99,
+        "rating": 4.8
+    },
+    {
+        "id": 4,
+        "title": "Women's Floral Bedding Set",
+        "category": "Bed, Bath & Beyond",
+        "description": "Women's floral bedding set for a light and sunny atmosphere.",
+        "image": "https://m.media-amazon.com/images/I/81-yl3lN8RL._AC_SL1486_.jpg",
+        "price": 59.99,
+        "rating": 4.2
+    },
+    {
+        "id": 5,
+        "title": "Women's Sports Set",
+        "category": "Sportswear",
+        "description": "Women's sports set for comfort during workouts. Breathable and flexible fabric.",
+        "image": "https://m.media-amazon.com/images/I/61FjMMsHNHL._AC_SX679_.jpg",
+        "price": 79.99,
+        "rating": 4.6
+    },
+    {
+        "id": 6,
+        "title": "Lace Bra",
+        "category": "Women's Intimate Clothing",
+        "description": "Women's lace bra. Sensuality and comfort in one piece.",
+        "image": "https://m.media-amazon.com/images/I/61W9Hx1hoNL._AC_SX679_.jpg",
+        "price": 34.99,
+        "rating": 4.4
+    },
+    {
+        "id": 7,
+        "title": "Men's Basic T-Shirt",
+        "category": "T-Shirts",
+        "description": "Men's basic t-shirt, essential in the wardrobe. Comfort and style for everyday wear.",
+        "image": "https://m.media-amazon.com/images/I/310lK7yxoTL._AC_.jpg",
+        "price": 29.99,
+        "rating": 4.0
+    },
+    {
+        "id": 8,
+        "title": "Women's Leggings",
+        "category": "Pants",
+        "description": "Women's leggings for convenience and comfort. Versatile for various activities.",
+        "image": "https://m.media-amazon.com/images/I/41ETsPfFEwL._AC_SX679_.jpg",
+        "price": 49.99,
+        "rating": 4.5
+    },
+    {
+        "id": 9,
+        "title": "Men's Windbreaker Jacket",
+        "category": "Jackets",
+        "description": "Men's windbreaker jacket, ideal for cooler days. Style and protection.",
+        "image": "https://m.media-amazon.com/images/I/51kT5CVDBhL._AC_SX679_.jpg",
+        "price": 69.99,
+        "rating": 4.2
+    },
+    {
+        "id": 10,
+        "title": "Luxury Towel Set",
+        "category": "Bed, Bath & Beyond",
+        "description": "Luxury towel set for moments of comfort and elegance.",
+        "image": "https://m.media-amazon.com/images/I/71HToK0qBnL._AC_SL1200_.jpg",
+        "price": 129.99,
+        "rating": 4.9
+    },
+    {
+        "id": 11,
+        "title": "Women's Sports Shorts",
+        "category": "Sportswear",
+        "description": "Women's sports shorts for free movements. Comfort and style during exercises.",
+        "image": "https://m.media-amazon.com/images/I/61N1Vd74nNL._AC_SX679_.jpg",
+        "price": 34.99,
+        "rating": 4.7
+    },
+    {
+        "id": 12,
+        "title": "Cotton Panties Set",
+        "category": "Women's Intimate Clothing",
+        "description": "Women's panties made of cotton. Comfortable and delicate.",
+        "image": "https://m.media-amazon.com/images/I/51c+Kn1rzYL._AC_SY879_.jpg",
+        "price": 14.99,
+        "rating": 4.0
+    },
+    {
+        "id": 13,
+        "title": "Men's Long Sleeve T-Shirt",
+        "category": "T-Shirts",
+        "description": "Men's long sleeve t-shirt, perfect for cooler days. Style and practicality.",
+        "image": "https://m.media-amazon.com/images/I/6132YxgfSjL._AC_SX679_.jpg",
+        "price": 39.99,
+        "rating": 4.6
+    },
+    {
+        "id": 14,
+        "title": "Women's Dress Pants",
+        "category": "Pants",
+        "description": "Women's dress pants for an elegant look. Pair with blouses or shirts.",
+        "image": "https://m.media-amazon.com/images/I/51voBkfe2cL._AC_SY741_.jpg",
+        "price": 79.99,
+        "rating": 4.8
+    },
+    {
+        "id": 15,
+        "title": "Men's Denim Jacket",
+        "category": "Jackets",
+        "description": "Men's denim jacket, casual and versatile style. Ideal for various occasions.",
+        "image": "https://m.media-amazon.com/images/I/61IlZ4loxKL._AC_SX679_.jpg",
+        "price": 89.99,
+        "rating": 4.3
+    },
+    {
+        "id": 16,
+        "title": "Printed Bedding Set",
+        "category": "Bed, Bath & Beyond",
+        "description": "Printed bedding set for a cozy atmosphere. Versatile for different environments.",
+        "image": "https://m.media-amazon.com/images/I/71XOjLq654S._AC_SL1280_.jpg",
+        "price": 59.99,
+        "rating": 4.5
+    },
+    {
+        "id": 17,
+        "title": "Women's Fitness Set",
+        "category": "Sportswear",
+        "description": "Women's fitness set for stylish workouts. Comfort and modern visual.",
+        "image": "https://m.media-amazon.com/images/I/518qqz7HznL._AC_SY879_.jpg",
+        "price": 49.99,
+        "rating": 4.7
+    },
+    {
+        "id": 18,
+        "title": "Push-Up Bra",
+        "category": "Women's Intimate Clothing",
+        "description": "Push-up bra for women to enhance the bust. Comfort and sensuality in one piece.",
+        "image": "https://m.media-amazon.com/images/I/71IKbnOq+dL._AC_SX679_.jpg",
+        "price": 24.99,
+        "rating": 4.2
+    },
+    {
+        "id": 19,
+        "title": "Men's Tank Top",
+        "category": "T-Shirts",
+        "description": "Men's tank top, perfect for hot days. Style and freshness.",
+        "image": "https://m.media-amazon.com/images/I/51hkW0rTbWL._AC_SX679_.jpg",
+        "price": 29.99,
+        "rating": 4.0
+    },
+    {
+        "id": 20,
+        "title": "Women's Jogger Pants",
+        "category": "Pants",
+        "description": "Women's jogger pants, comfortable and stylish. Ideal for casual looks.",
+        "image": "https://m.media-amazon.com/images/I/61i24xkfKBL._AC_SY741_.jpg",
+        "price": 69.99,
+        "rating": 4.6
+    },
+    {
+        "id": 21,
+        "title": "Women's Windbreaker Jacket",
+        "category": "Jackets",
+        "description": "Women's windbreaker jacket, lightweight and practical. Perfect for changeable weather.",
+        "image": "https://m.media-amazon.com/images/I/61ZfD33FHzS._AC_SX679_.jpg",
+        "price": 59.99,
+        "rating": 4.8
+    },
+    {
+        "id": 22,
+        "title": "Long Beach Towel",
+        "category": "Bed, Bath & Beyond",
+        "description": "Long beach towel, light and flowing. Ideal for relaxed moments by the sea.",
+        "image": "https://m.media-amazon.com/images/I/61x6FwAZrJL._AC_SL1000_.jpg",
+        "price": 44.99,
+        "rating": 4.3
+    },
+    {
+        "id": 23,
+        "title": "Women's Sports Leggings",
+        "category": "Sportswear",
+        "description": "Women's sports leggings for intense workouts. Comfort and flexibility.",
+        "image": "https://m.media-amazon.com/images/I/710jh-ccIkL._AC_SX679_.jpg",
+        "price": 39.99,
+        "rating": 4.5
+    },
+    {
+        "id": 24,
+        "title": "Lacy Lingerie Set",
+        "category": "Women's Intimate Clothing",
+        "description": "Lacy women's lingerie set. Sensuality and elegance.",
+        "image": "https://m.media-amazon.com/images/I/51IzpM9nMFL._AC_.jpg",
+        "price": 54.99,
+        "rating": 4.7
+    },
+    {
+        "id": 25,
+        "title": "Men's Polo Shirt",
+        "category": "T-Shirts",
+        "description": "Men's polo shirt, classic and timeless style. Perfect for formal occasions.",
+        "image": "https://m.media-amazon.com/images/I/51ke7sqF4yL._AC_SX569_.jpg",
+        "price": 49.99,
+        "rating": 4.2
+    },
+    {
+        "id": 26,
+        "title": "Women's Cargo Pants",
+        "category": "Pants",
+        "description": "Women's cargo pants, practical and stylish. Functional pockets and modern design.",
+        "image": "https://m.media-amazon.com/images/I/51ZO41cVgdL._AC_SX679_.jpg",
+        "price": 79.99,
+        "rating": 4.4
+    },
+    {
+        "id": 27,
+        "title": "Men's Bomber Jacket",
+        "category": "Jackets",
+        "description": "Men's bomber jacket, urban and casual visual. Ideal for a casual look.",
+        "image": "https://m.media-amazon.com/images/I/61JwYr81LtL._AC_SX679_.jpg",
+        "price": 89.99,
+        "rating": 4.6
+    },
+    {
+        "id": 28,
+        "title": "400 Thread Count Sheet Set",
+        "category": "Bed, Bath & Beyond",
+        "description": "Refresh the atmosphere of your bedroom with this elegant sheet set. Provides a sophisticated and modern look to your bed.",
+        "image": "https://m.media-amazon.com/images/I/81j2Wd6RtNL._AC_SL1500_.jpg",
+        "price": 129.99,
+        "rating": 4.7
+    }
+]

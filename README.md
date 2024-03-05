@@ -1,13 +1,14 @@
-https://github.com/mariaclarasimoes/E-commerce/assets/132612073/9220ff0b-fef4-40de-b2ec-968ca1dc53db
+https://github.com/mariaclarasimoes/E-commerce/assets/132612073/74136211-8bc3-419f-800c-3503eb66d88c
 
-🎯 Objetivo: Desenvolver um website para uma loja online. <br>
+🎯 Objective: Develop a website for an online store. <br>
 
-⚙ Funcionamento: O front end é construído com React e Node.js, integrando-se a um arquivo JSON para fornecer dados dinâmicos. Utiliza-se a flexibilidade de componentes reutilizáveis e hooks para o gerenciamento de estado. O Tailwind CSS é empregado para simplificar o design da interface e garantir a responsividade em diferentes dispositivos. Além disso, a prototipagem e interatividade são realizadas no Figma, contribuindo para uma excelente UI (User Interface) e UX (User Experience). <br>
+⚙ Operation: The front end is built with React and Node.js, integrating with a JSON file to provide dynamic data. The flexibility of reusable components and hooks is utilized for state management. Tailwind CSS is employed to simplify interface design and ensure responsiveness across different devices. Additionally, prototyping and interactivity are conducted in Figma, contributing to excellent UI (User Interface) and UX (User Experience). <br>
 
-🔧 Ferramentas Utilizadas: <br>
-- React <br>
-- Node.js <br>
-- Tailwind CSS <br>
-- Figma <br>
+🔧 Tools Used: <br>
+- React
+- Node.js
+- Tailwind CSS
+- Figma
 
-Veja meu vídeo no youtube explicando o funcionamento: https://youtu.be/3NiR16DOIOI
+Check out my video on youtube: https://youtu.be/in_J_kQjzTQ <br>
+Vídeo em português: https://youtu.be/3NiR16DOIOI
